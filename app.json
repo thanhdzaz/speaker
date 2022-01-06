@@ -1,0 +1,18 @@
+{
+  "name": "Speaker",
+  "displayName": "Speaker",
+  "expo": {
+    "name": "Speaker",
+    "slug": "speaker",
+    "sdkVersion": "40.0.0",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.bkacad.speaker",
+      "buildNumber": "1.0.1"
+    },
+    "android": {
+      "package": "com.bkacad.speaker",
+      "versionCode": 5
+    }
+  }
+}
